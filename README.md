@@ -12,7 +12,6 @@ I used, and highly recommend, IntelliJ by JetBrains to write and run this Kotlin
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [IntelliJ](https://www.jetbrains.com/idea/download/#section=mac)
 * [Kotlin Docs (start here)](https://kotlinlang.org/docs/home.html)
 * [Kotlin Types](https://kotlinlang.org/docs/basic-types.html#literal-constants)
